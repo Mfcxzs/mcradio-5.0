@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    " T ",
+    "ASA",
+    "III"
+  ],
+  "key": {
+    "T": {
+      "item": "mcradio:antenna_tier2"
+    },
+    "A": {
+      "item": "mcradio:antenna_rod"
+    },
+    "S": {
+      "item": "mcradio:satellite_core"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "mcradio:antenna_tier3",
+    "count": 1
+  }
+}

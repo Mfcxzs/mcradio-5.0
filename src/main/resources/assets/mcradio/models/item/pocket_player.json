@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mcradio:item/pocket_player_0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "mcradio:signal": 0.2
+      },
+      "model": "mcradio:item/pocket_player_1"
+    },
+    {
+      "predicate": {
+        "mcradio:signal": 0.4
+      },
+      "model": "mcradio:item/pocket_player_2"
+    },
+    {
+      "predicate": {
+        "mcradio:signal": 0.6000000000000001
+      },
+      "model": "mcradio:item/pocket_player_3"
+    },
+    {
+      "predicate": {
+        "mcradio:signal": 0.8
+      },
+      "model": "mcradio:item/pocket_player_4"
+    }
+  ]
+}

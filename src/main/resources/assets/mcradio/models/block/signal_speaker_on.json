@@ -1,0 +1,6 @@
+{
+  "parent": "mcradio:block/signal_speaker",
+  "textures": {
+    "front": "mcradio:block/speaker_front_on"
+  }
+}

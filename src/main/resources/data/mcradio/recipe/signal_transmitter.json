@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "A",
+    "K",
+    "X"
+  ],
+  "key": {
+    "A": {
+      "item": "mcradio:antenna_rod"
+    },
+    "K": {
+      "item": "mcradio:ferrite_coil"
+    },
+    "X": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "id": "mcradio:signal_transmitter",
+    "count": 1
+  }
+}

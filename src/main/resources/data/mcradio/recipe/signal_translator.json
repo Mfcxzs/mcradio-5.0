@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "IAI",
+    "BFB",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "mcradio:antenna_rod"
+    },
+    "B": {
+      "item": "mcradio:circuit_board"
+    },
+    "F": {
+      "item": "mcradio:ferrite_coil"
+    }
+  },
+  "result": {
+    "id": "mcradio:signal_translator",
+    "count": 1
+  }
+}

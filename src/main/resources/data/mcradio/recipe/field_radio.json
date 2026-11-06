@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "IAI",
+    "BWB",
+    "ISI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "mcradio:antenna_rod"
+    },
+    "B": {
+      "item": "mcradio:circuit_board"
+    },
+    "W": {
+      "item": "mcradio:walkie_talkie"
+    },
+    "S": {
+      "item": "mcradio:satellite_core"
+    }
+  },
+  "result": {
+    "id": "mcradio:field_radio",
+    "count": 1
+  }
+}

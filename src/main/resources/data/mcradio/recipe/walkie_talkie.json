@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "  A",
+    "IBI",
+    "III"
+  ],
+  "key": {
+    "A": {
+      "item": "mcradio:antenna_rod"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "mcradio:circuit_board"
+    }
+  },
+  "result": {
+    "id": "mcradio:walkie_talkie",
+    "count": 1
+  }
+}

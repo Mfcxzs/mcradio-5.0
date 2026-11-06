@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "IGI",
+    "BMB",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "B": {
+      "item": "mcradio:circuit_board"
+    },
+    "M": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "id": "mcradio:signal_computer",
+    "count": 1
+  }
+}

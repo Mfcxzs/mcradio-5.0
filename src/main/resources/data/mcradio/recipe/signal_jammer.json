@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "IEI",
+    "BKB",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "B": {
+      "item": "mcradio:circuit_board"
+    },
+    "K": {
+      "item": "mcradio:ferrite_coil"
+    }
+  },
+  "result": {
+    "id": "mcradio:signal_jammer",
+    "count": 1
+  }
+}

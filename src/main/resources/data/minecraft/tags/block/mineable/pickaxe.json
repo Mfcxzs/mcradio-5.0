@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcradio:signal_station",
+    "mcradio:signal_transmitter",
+    "mcradio:signal_repeater",
+    "mcradio:signal_receiver",
+    "mcradio:signal_computer",
+    "mcradio:signal_jammer",
+    "mcradio:signal_horn",
+    "mcradio:signal_speaker",
+    "mcradio:antenna_cable",
+    "mcradio:music_server",
+    "mcradio:broadcast_computer",
+    "mcradio:audio_amplifier",
+    "mcradio:signal_translator",
+    "mcradio:antenna_tier1",
+    "mcradio:antenna_tier2",
+    "mcradio:antenna_tier3"
+  ]
+}

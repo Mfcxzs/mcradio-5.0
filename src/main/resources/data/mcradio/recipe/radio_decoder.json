@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "IGI",
+    "BKB",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "B": {
+      "item": "mcradio:circuit_board"
+    },
+    "K": {
+      "item": "mcradio:ferrite_coil"
+    }
+  },
+  "result": {
+    "id": "mcradio:radio_decoder",
+    "count": 1
+  }
+}

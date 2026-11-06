@@ -1,0 +1,29 @@
+{
+  "radio_stream": {
+    "sounds": [
+      {
+        "name": "minecraft:random/click",
+        "stream": true,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "radio_stream_horn": {
+    "sounds": [
+      {
+        "name": "minecraft:random/click",
+        "stream": true,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "radio_stream_speaker": {
+    "sounds": [
+      {
+        "name": "minecraft:random/click",
+        "stream": true,
+        "attenuation_distance": 16
+      }
+    ]
+  }
+}

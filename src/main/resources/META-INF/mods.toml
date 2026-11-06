@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[52,)"
+license = "MIT"
+
+[[mods]]
+modId = "mcradio"
+version = "1.0.0"
+displayName = "VoidFrequency"
+description = '''
+VoidFrequency: an industrial radio mod. Distributors stream MP3 playlists or live voice, repeaters and
+cables carry signals underground, jammers sabotage them, number stations hide the coordinates of
+abandoned bunkers and crashed satellites.
+Put .mp3 files into config/mc_radio/tracks/ on the machine that hosts the world.
+'''
+
+[[dependencies.mcradio]]
+modId = "forge"
+mandatory = true
+versionRange = "[52,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.mcradio]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

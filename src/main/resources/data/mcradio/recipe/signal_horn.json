@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "III",
+    "KNK",
+    "IAI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "K": {
+      "item": "mcradio:ferrite_coil"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "A": {
+      "item": "mcradio:antenna_rod"
+    }
+  },
+  "result": {
+    "id": "mcradio:signal_horn",
+    "count": 1
+  }
+}

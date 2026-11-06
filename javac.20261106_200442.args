@@ -1,0 +1,11 @@
+-proc:none
+-Xmaxerrs
+100000
+-d
+/tmp/o
+src/main/java/com/mcradio/VoidChain.java
+src/main/java/com/mcradio/McRadio.java
+src/main/java/com/mcradio/core/BroadcastEngine.java
+src/main/java/com/mcradio/core/ChainTier.java
+src/main/java/com/mcradio/core/Mixer.java
+src/main/java/com/mcradio/core/SecureChannels.java
